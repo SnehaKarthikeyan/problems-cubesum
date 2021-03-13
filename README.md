@@ -1,1 +1,79 @@
 # problems-cubesum
+
+Question:
+
+You are given a number N and your task is to find the sum of the cubes of first N natural numbers.
+
+Input Description:
+
+The first line contains an integer N (1<=N<=10^20).
+
+Output Description:
+
+Print the resultant sum of the cubes of first N natural numbers.
+
+Hints:
+
+Find the cube of each digit for first N natural numbers and then find their sum
+
+Sample Input:
+
+5
+
+Sample Output:
+
+225
+
+Explanation:
+
+The resultant sum of the cubes of first 5 natural numbers is 225, as 1^3+2^3+3^3+4^3+5^3
+
+Testcase 1:
+
+Input:
+
+617
+
+Output:
+
+36348566409
+
+Testcase 2:
+
+Input:
+
+332
+
+Output:
+
+3055657284
+
+Testcase 3:
+
+Input:
+
+69
+
+Output:
+
+5832225
+
+Testcase 4:
+
+Input:
+
+274
+
+Output:
+
+1419405625
+
+Testcase 5:
+
+Input:
+
+491
+
+Output:
+
+14589257796
